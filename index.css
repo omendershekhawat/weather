@@ -1,0 +1,13 @@
+.card-body {
+    height: 298px;
+}
+li {
+    font-size: 25px;
+}
+a.navbar-brand {
+    font-size: 30px;
+    margin: 15px;
+}
+input#city {
+    width: 358px;
+}
